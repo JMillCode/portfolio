@@ -69,10 +69,6 @@ Basé en **France**, j'aime concevoir des solutions performantes, accessibles et
 
 ## ✉️ Me contacter
 
-📧 **Email** : [ton.email@exemple.com]  
-🌐 **Portfolio** : [https://ton-site.dev](https://ton-site.dev) *(si tu en as un)*  
-📍 **Localisation** : France (Remote / Présentiel possible)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmillul)
+📍 **Localisation** : Paris / France (Remote possible)
 
----
-
-> 🔎 *Tu peux personnaliser ce README à tout moment selon tes missions, projets ou nouvelles stacks !*
