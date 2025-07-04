@@ -69,6 +69,6 @@ Basé en **France**, j'aime concevoir des solutions performantes, accessibles et
 
 ## ✉️ Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmillul)
+**Linkedin** https://www.linkedin.com/in/jmillul
 📍 **Localisation** : Paris / France (Remote possible)
 
