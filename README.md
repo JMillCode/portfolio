@@ -1,6 +1,6 @@
 # 🚀 Développeur Full Stack JavaScript / PHP
 
-👋 Salut ! Je suis **[Jonathan MILLUL]**, développeur fullstack passionné avec plus de **10 ans d'expérience** dans la création de sites internet et d'applications web.  
+Bonjour ! **Jonathan MILLUL**, développeur fullstack passionné avec plus de **10 ans d'expérience** dans la création de sites internet et d'applications web.  
 Basé en **France**, j'aime concevoir des solutions performantes, accessibles et bien pensées, que ce soit en frontend ou backend.
 
 ---
